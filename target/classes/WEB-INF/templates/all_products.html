@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <style>
+        table{
+            border: 1px solid blue;
+            padding: 20px;
+        };
+        tr {
+            border: 2px solid aqua;
+            padding: 20px;
+        };
+
+
+
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Spring MVC GeekApp</title>
+</head>
+
+<body>
+<h1>All products</h1>
+<table>
+    <thead>
+    <tr>
+        <td>ID</td>
+        <td>Title</td>
+        <td>Price</td>
+        <td>Go to</td>
+    </tr>
+    </thead>
+    <tbody>
+
+    <tr th:each="product : ${products}">
+
+        <td th:text="${product.id}"/>
+        <td th:text="${product.title}"/>
+        <td th:text="${product.price}"/>
+        <td><a th:href="@{'/products/' + ${product.id}}"> >>> </a></td>
+    </tr>
+
+    </tbody>
+</table>
+<a th:href="@{/products/add}"/>Добавить продукт</a>
+</br>
+<a th:href="@{/}">на Главную страницу</a>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Spring MVC GeekApp</title>
+</head>
+
+<body>
+<h1>Students list:</h1>
+<table>
+    <thead>
+    <tr>
+        <td>ID</td>
+        <td>First Name</td>
+        <td>Last Name</td>
+    </tr>
+    </thead>
+    <tbody>
+    <!--        /*@thymesVar id="students" type="com.geekbrains.entities.Student"*/-->
+    <tr th:each="s : ${students}">
+        <td th:text="${s.id}"/>
+        <td th:text="${s.firstName}"/>
+        <td th:text="${s.lastName}"/>
+    </tr>
+    </tbody>
+</table>
+<a th:href="@{/}">на Главную страницу</a>
+</body>
+</html>

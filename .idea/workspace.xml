@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f37236b0-fe1f-490f-a209-52cd40f7f527" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tyf7HLNvBonNo5KV7DWfuHSg9d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567250671457" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FlameXander\Desktop\Курсы Java\Sources\Spring 1\Lesson 2 (Spring MVC)\geekspring\src\main\webapp\WEB-INF\templates" />
+      <recent name="C:\Users\FlameXander\Desktop\Курсы Java\Sources\Spring 1\Lesson 2 (Spring MVC)\geekspring\src\main\webapp\WEB-INF\view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbrains.launcher.Launcher" />
+      <module name="geekspring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbrains.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f37236b0-fe1f-490f-a209-52cd40f7f527" name="Default" comment="" />
+      <created>1542207957743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542207957743</updated>
+      <workItem from="1574437088496" duration="1413000" />
+      <workItem from="1574438642910" duration="12782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1591981394679">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591981394679" />
+    <state x="430" y="154" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591470287224">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="430" y="154" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1591470287224" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1591985351698">
+      <screen x="51" y="23" width="1389" height="877" />
+    </state>
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591984999325" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1591633932059" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/51.23.1389.877@51.23.1389.877" timestamp="1591985351698" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1591985351690">
+      <screen x="51" y="23" width="1389" height="877" />
+    </state>
+    <state width="1398" height="194" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591984999323" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1591633932057" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/51.23.1389.877@51.23.1389.877" timestamp="1591985351690" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1591985351689">
+      <screen x="51" y="23" width="1389" height="877" />
+    </state>
+    <state width="1398" height="194" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591984999322" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1591633932056" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/51.23.1389.877@51.23.1389.877" timestamp="1591985351689" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1591985351697">
+      <screen x="51" y="23" width="1389" height="877" />
+    </state>
+    <state width="1398" height="194" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591984999324" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1591633932058" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/51.23.1389.877@51.23.1389.877" timestamp="1591985351697" />
+    <state x="143" y="109" key="new project wizard" timestamp="1591874185278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="143" y="109" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1591874185278" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 20 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
